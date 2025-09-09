@@ -58,6 +58,9 @@
 }
 
 /* Title */
+.header__content {
+  max-width: 709px;
+}
 .header__title {
   position: absolute;
   top: 183px;
