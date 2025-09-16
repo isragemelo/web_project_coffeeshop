@@ -203,10 +203,8 @@
   background-size: cover;
   width: 100%;
 }
-.form__imput {
-  border-radius: 4px;
-}
-.form__button {
+
+.reservation__button {
   border-radius: 4px;
   background: #2f80ed;
   color: white;
@@ -218,21 +216,21 @@
   max-width: 385px;
   height: 60px;
 }
-.form__button--submit {
+.reservation__button--submit {
   background: #898989;
   color: white;
 }
 
-.form__button--submit:enabled {
+.reservation__button--submit:enabled {
   background: #2f80ed;
   font-weight: 600;
 }
 
-.form__button--submit:hover:enabled {
+.reservation__button--submit:hover:enabled {
   background: #2f80ed;
   opacity: 70%;
 }
-.form__checkbox-input {
+.reservation__checkbox-input {
   border-radius: 2px;
 }
 
@@ -255,7 +253,7 @@
   flex-direction: column;
   gap: 20px;
 }
-.form__label-terminos {
+.reservation__label-terminos {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -284,4 +282,5 @@
   font-size: 20px;
   line-height: 30px;
   height: 60px;
+  border-radius: 4px;
 }
