@@ -270,14 +270,14 @@
   padding-bottom: 120px;
 }
 
-.form__label {
+.reservation__label {
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
 }
-.form__imput {
+.reservation__imput {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
